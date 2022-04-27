@@ -10,9 +10,14 @@
 6. Читаем и радуемся.<br>
 </p>
 <h2>Библиотеки:</h2> <h3>beautifulSoup, requests, sqlite3, reportlab, pickle, os</h3>
+<p> Созданные папки имеют название статьи и дату публикации. </p>
 <img width="537" alt="Screenshot_1" src="https://user-images.githubusercontent.com/85381084/165484948-d3b42996-8aed-4164-a861-076e186f0e23.png">
+<p>В каждой папке находится статья в pdf и все картинки относящиеся к данной статье.</p>
 <img width="432" alt="Screenshot_2" src="https://user-images.githubusercontent.com/85381084/165485104-96d3880f-d828-4969-b443-598d5bb1fec3.png">
+<p>Сама статья.</p>
 <img width="637" alt="Screenshot_3" src="https://user-images.githubusercontent.com/85381084/165485259-5b244c3c-c52c-4db1-879d-153cbb1472b4.png">
+<p>Относящиеся к ней изображения.</p>
 <img width="613" alt="Screenshot_4" src="https://user-images.githubusercontent.com/85381084/165485275-b5adafa1-e521-4fd2-91e0-f52136af1746.png">
 <img width="618" alt="Screenshot_5" src="https://user-images.githubusercontent.com/85381084/165485294-92c86d57-92e0-4f8c-9378-6bc5ff7e0fa4.png">
+<p>Пример другой статьи.</p>
 <img width="690" alt="Screenshot_6" src="https://user-images.githubusercontent.com/85381084/165485312-b41539ae-2db4-4b8f-8f80-3831f274cdcf.png">
