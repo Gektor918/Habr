@@ -1,4 +1,4 @@
-<h1>Создание pdf-файлов из актуальных статей на Хабре о Python </h1>
+<h1>Создание pdf-файлов на Python из актуальных статей на Хабре о Python )</h1>
 
 <p>
 1. Парсим актуальные хабы о python  ‘https://habr.com/ru/hub/python/’.<br>
@@ -12,7 +12,7 @@
 <h2>Библиотеки:</h2> <h3>beautifulSoup, requests, sqlite3, reportlab, pickle, os</h3>
 <p> Созданные папки имеют название статьи и дату публикации. </p>
 <img width="537" alt="Screenshot_1" src="https://user-images.githubusercontent.com/85381084/165484948-d3b42996-8aed-4164-a861-076e186f0e23.png">
-<p>В каждой папке находится статья в pdf и все картинки относящиеся к данной статье.</p>
+<p>В каждой папке находится статья в pdf и все изображения относящиеся к данной статье.</p>
 <img width="432" alt="Screenshot_2" src="https://user-images.githubusercontent.com/85381084/165485104-96d3880f-d828-4969-b443-598d5bb1fec3.png">
 <p>Сама статья.</p>
 <img width="637" alt="Screenshot_3" src="https://user-images.githubusercontent.com/85381084/165485259-5b244c3c-c52c-4db1-879d-153cbb1472b4.png">
